@@ -1,0 +1,9 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# データなどの大容量ファイル（必要に応じて）
+data/
